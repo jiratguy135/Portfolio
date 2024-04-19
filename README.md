@@ -6,6 +6,6 @@ I'm Jirat Fuangfu, My experience in the role of manual tester has been more than
 #### This is my automation project
 - Robot Framework
   - SwagLab
-    - Website:
-    - Project:
+    - Website: https://www.saucedemo.com/
+    - Project: https://github.com/jiratguy135/Robot-SwagLabs.git
   - Automation_Exercise
