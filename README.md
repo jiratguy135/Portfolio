@@ -11,6 +11,6 @@ I'm Jirat Fuangfu, My experience in the role of manual tester has been more than
   - Automation_Exercise
     - Website: http://automationexercise.com
     - Poject: https://github.com/jiratguy135/Automation_Exercise_Website.git   
-  - ParaBank [InProgress]
+  - ParaBank
     - Website: https://parabank.parasoft.com/parabank/index.htm
     - Project: https://github.com/jiratguy135/ParaBank.git
