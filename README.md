@@ -15,5 +15,5 @@ I'm Jirat Fuangfu, My experience in the role of manual tester has been more than
     - Website: https://parabank.parasoft.com/parabank/index.htm
     - Project: https://github.com/jiratguy135/ParaBank.git
   - Petsore (API) - Inprogress
-      Website:
+      Website: https://petstore.swagger.io/  
       Project: https://github.com/jiratguy135/petstore.git
