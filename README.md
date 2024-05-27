@@ -17,3 +17,6 @@ I'm Jirat Fuangfu, My experience in the role of manual tester has been more than
   - Petsore (API) - Inprogress  
     - Website: https://petstore.swagger.io/  
     - Project: https://github.com/jiratguy135/petstore.git
+  - Automation_Exercise (API)
+    - Website: https://automationexercise.com/api_list
+    - Project: https://github.com/jiratguy135/shop_automate_exercise_api.git
